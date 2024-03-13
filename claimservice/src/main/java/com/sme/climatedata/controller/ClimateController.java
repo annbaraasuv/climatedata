@@ -43,8 +43,15 @@ public class ClimateController {
         climateService.deleteClimateData(id);
     }
 
+    /**
+     * Retrieves climate data for a specific city.
+     *
+     * @return a list of ClimateData objects representing the climate data for the city
+     */
     @GetMapping("/city")
     public List<ClimateData> getClimateDataByCity() {
         return climateService.getClimateDataByCity();
     }
+    
+
 }
