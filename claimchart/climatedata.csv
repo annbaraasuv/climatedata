@@ -14,3 +14,8 @@ id,city,country,month_data,temperature,humidity,precipitation
 13,Bangalore,India,March,26.7,70.7,0.0
 14,Bangalore,India,April,31.6,75.2,0.8
 15,Bangalore,India,May,33.4,80.6,10.4
+16,Moscow,Russia,January,-5,70,50
+17,Madrid,Spain,February,10,55,40
+18,Rome,Italy,March,15,60,45
+19,Berlin,Germany,April,12,65,55
+20,Beijing,China,May,25,50,60
