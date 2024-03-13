@@ -1,0 +1,16 @@
+id,city,country,month_data,temperature,humidity,precipitation
+1,Mumbai,India,January,25.7,60.5,10.2
+2,Mumbai,India,February,27.9,62.3,5.1
+3,Mumbai,India,March,29.8,65.7,0.0
+4,Mumbai,India,April,31.6,70.2,0.8
+5,Mumbai,India,May,33.4,75.6,20.4
+6,Delhi,India,January,14.6,55.5,15.2
+7,Delhi,India,February,16.8,57.3,10.1
+8,Delhi,India,March,20.7,60.7,5.0
+9,Delhi,India,April,25.6,65.2,0.8
+10,Delhi,India,May,30.4,70.6,10.4
+11,Bangalore,India,January,20.6,65.5,5.2
+12,Bangalore,India,February,22.8,67.3,0.1
+13,Bangalore,India,March,26.7,70.7,0.0
+14,Bangalore,India,April,31.6,75.2,0.8
+15,Bangalore,India,May,33.4,80.6,10.4
